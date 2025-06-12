@@ -1,6 +1,5 @@
 from pathlib import Path
 from ultralytics import YOLO
-import torch
 import cv2
 import os
 import argparse
